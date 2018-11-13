@@ -20,3 +20,9 @@ account number to generate the full account number. This number must pass the fo
 2. Take the sum of all the digits.
 
 3. If the total modulo 10 is equal to 0 (if the total ends in zero) then the number is valid according to the Luhn formula; else it is not valid.
+
+
+
+The project is an example of how to implement a checking algorithm. Here the lenght of the id should be 4 but it can be easily 
+changed to accept any lenght. 
+This is a very basic project. Once right id has been entered, it takes the user to next view controller.
